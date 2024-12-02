@@ -1,0 +1,1 @@
+Follow-along project from freecodecamp.org's Review DOM Manipulation lesson. A short and simply project that introduced getElementById, functions, and conditionals by building a functional Rock-Paper-Scissors Game. Code is from the lesson, typed into VS code as I completed each step.
